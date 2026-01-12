@@ -7,8 +7,6 @@ The current Mamba configuration uses the same size as Mamba-2.8B:
 
 
 The design passes synthesis, but the BRAM utilization is too high and still needs optimization:
-![newsize syn](https://github.com/user-attachments/assets/8953b8c7-0a9e-40dd-8fe8-b342bd1bc514)
-%
 ![newsize syn %](https://github.com/user-attachments/assets/ec576775-f9a2-4a7d-86f9-fe8384c340d5)
 
 The design passes co-simulation, and the latency is shown below:
