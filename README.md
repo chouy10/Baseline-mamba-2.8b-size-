@@ -5,6 +5,8 @@ The current Mamba configuration uses the same size as Mamba-2.8B:
 
 <img width="1159" height="223" alt="image" src="https://github.com/user-attachments/assets/aef637d3-c1a7-435f-b6fa-6f3a69a33cce" />
 
+The design passes c-simulation:
+<img width="785" height="131" alt="image" src="https://github.com/user-attachments/assets/ea1a4ca2-54cc-4ee9-b80f-48d122475129" />
 
 The design passes synthesis, but the BRAM utilization is too high and still needs optimization:
 ![newsize syn %](https://github.com/user-attachments/assets/ec576775-f9a2-4a7d-86f9-fe8384c340d5)
