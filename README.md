@@ -1,5 +1,6 @@
 # Baseline-mamba-2.8b-size-
 The current Mamba configuration uses the same size as Mamba-2.8B:
+
 <img width="470" height="250" alt="image" src="https://github.com/user-attachments/assets/f5fe64a5-04e5-4238-b131-7f68eec1065e" />
 
 <img width="1159" height="223" alt="image" src="https://github.com/user-attachments/assets/aef637d3-c1a7-435f-b6fa-6f3a69a33cce" />
